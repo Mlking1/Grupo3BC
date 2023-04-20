@@ -1,0 +1,14 @@
+#myTable {
+    width: 100%;
+}
+
+.tituloTabla h1 {
+    text-align: center;
+    margin: 10px;
+    font-size: 25px;
+    width: 100%;
+}
+
+#botonV {
+    margin: 5px;
+}
